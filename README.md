@@ -31,7 +31,3 @@ In the singular value plot there are a few very large singular values at the sta
 numpy, matplotlib
 
 The image is large, so the three SVDs take some time.
-
-## Reference
-
-Lars Eldén, *Matrix Methods in Data Mining and Pattern Recognition*, SIAM.
